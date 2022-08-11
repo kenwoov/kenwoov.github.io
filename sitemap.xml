@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lively-glacier-0974a8000.1.azurestaticapps.net/posts/how-to-start/</loc>
+    <loc>https://lively-glacier-0974a8000.1.azurestaticapps.net/blog/</loc>
+    <lastmod>2022-08-10T21:18:17+08:00</lastmod>
+  </url><url>
+    <loc>https://lively-glacier-0974a8000.1.azurestaticapps.net/blog/how-to-start/</loc>
     <lastmod>2022-08-10T21:18:17+08:00</lastmod>
   </url><url>
     <loc>https://lively-glacier-0974a8000.1.azurestaticapps.net/</loc>
-    <lastmod>2022-08-10T21:18:17+08:00</lastmod>
-  </url><url>
-    <loc>https://lively-glacier-0974a8000.1.azurestaticapps.net/posts/</loc>
     <lastmod>2022-08-10T21:18:17+08:00</lastmod>
   </url><url>
     <loc>https://lively-glacier-0974a8000.1.azurestaticapps.net/categories/</loc>
